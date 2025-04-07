@@ -1,0 +1,6 @@
+requests
+eth-account
+eth-typing
+eth-utils
+beautifulsoup4
+colorama
